@@ -23,7 +23,7 @@ __Michael's *test*__
   
 ![Test Chart](https://github.com/minsalaco80/MT/blob/master/Test%20Chart.png)
 
-http://www.google.com - automatic!
+http://www.google.com 
 
 As Kanye West said:
 
