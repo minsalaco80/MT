@@ -5,9 +5,9 @@ author: "Michael Insalaco"
 date: "7/26/2020"
 output: html_document
 ---
-#Michael's Test
-##Michael's Test
-######Michael's Test
+# Michael's Test
+## Michael's Test
+###### Michael's Test
 
 *Michael's test*
 _Michae's test_
